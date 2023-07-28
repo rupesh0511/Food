@@ -1,2 +1,2 @@
-# Food
-https://github.com/rupesh0511/Food/tree/main/Fruits
+https://rupesh0511.github.io/Food/
+
